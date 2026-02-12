@@ -101,6 +101,8 @@ CommandLineRunner/ApplicationRunner Execution
 ## 📸 Project Screenshots
 
 **1. Traditional Bean Creation** — Creating beans manually with new instances
+<img width="1777" height="921" alt="image" src="https://github.com/user-attachments/assets/8163a9e0-91a0-4e83-a7f7-b0e9d40edc83" />
+
 
 **2. Configuration-Based Bean Creation** — Using `@Configuration` and `@Bean` annotations
 
