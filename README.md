@@ -105,35 +105,65 @@ CommandLineRunner/ApplicationRunner Execution
 
 
 **2. Configuration-Based Bean Creation** — Using `@Configuration` and `@Bean` annotations
+<img width="1777" height="921" alt="image" src="https://github.com/user-attachments/assets/7c4fdd1e-3abd-4671-89c5-dc2f05137e03" />
+
 
 **3. Component Scanning** — Automatic bean discovery with `@Component`
+<img width="1777" height="921" alt="image" src="https://github.com/user-attachments/assets/a3206408-75aa-4191-9b4d-bd981ebd9a49" />
+
 
 **4. @PostConstruct Lifecycle Hook** — Initialization before bean usage
+<img width="1777" height="921" alt="image" src="https://github.com/user-attachments/assets/da7a9b71-4ce6-4a29-b2e5-8d92901184a5" />
+
 
 **5. @PreDestroy Lifecycle Hook** — Cleanup during application shutdown
 > 🔔 `@PreDestroy` is called when the application stops and wants to destroy the beans
+> <img width="1777" height="921" alt="image" src="https://github.com/user-attachments/assets/c8cb0152-95f4-4e24-b9ad-5ca5f77ba509" />
+
 
 **6. Prototype Scope** — New instance on every request
+<img width="1777" height="921" alt="image" src="https://github.com/user-attachments/assets/f669d637-41da-4891-b3ef-0c19163a3839" />
+
 
 **7. Dependency Injection — @Primary** — Resolve multiple bean candidates
+<img width="1777" height="921" alt="image" src="https://github.com/user-attachments/assets/bc295d43-d584-4cb0-a4b0-a4dcc8535f6d" />
+
 
 **8. Dependency Injection — @ConditionalOnProperty** — Conditional bean creation
+<img width="1777" height="921" alt="image" src="https://github.com/user-attachments/assets/ba3ddee2-c796-4b83-b47b-0cf1234c2df9" />
+
 
 **9. Field Injection** — Using `@Autowired` on fields
+<img width="1777" height="921" alt="image" src="https://github.com/user-attachments/assets/a47f54d1-2b45-42f1-a30d-34abeb64fd68" />
+
 
 **10. Constructor Injection** — Dependency injection via constructor
+<img width="1777" height="921" alt="image" src="https://github.com/user-attachments/assets/cd84fd2f-494b-47fd-8725-32fd165f6ca5" />
+
 
 **11. Final Fields with Constructor** — Immutable dependency pattern
+<img width="1777" height="921" alt="image" src="https://github.com/user-attachments/assets/b66e30fc-30c1-4ae2-a246-6aa6928c2d74" />
+
 
 **12. Bean Map Interface** — Retrieve all bean instances as Map
+<img width="1777" height="921" alt="image" src="https://github.com/user-attachments/assets/b5213616-31db-46cc-a0df-eb6310e3bf5e" />
+
 
 **13. Maven — Compile Command** — Compile source code
+<img width="1777" height="921" alt="image" src="https://github.com/user-attachments/assets/2ccdd220-e5ec-428a-837e-14ad6bd8eb3f" />
+
 
 **14. Maven — Clean Command** — Remove build artifacts
+<img width="1777" height="921" alt="image" src="https://github.com/user-attachments/assets/1232c2b2-0d3e-4a8e-a7aa-9858ee84908c" />
+
 
 **15. Maven — Package Command** — Build JAR/WAR
+<img width="1777" height="921" alt="image" src="https://github.com/user-attachments/assets/b7a1c678-b5fa-4e7a-a679-e798d199fd7b" />
+
 
 **16. Maven — Install Command** — Install to local repository
+<img width="1777" height="921" alt="image" src="https://github.com/user-attachments/assets/07c750f9-53ae-4ae7-93f2-a99f0de76088" />
+
 
 ---
 
