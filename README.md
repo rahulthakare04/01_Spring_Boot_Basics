@@ -109,60 +109,59 @@ CommandLineRunner/ApplicationRunner Execution
 
 
 **3. Component Scanning** — Automatic bean discovery with `@Component`
-<img width="1777" height="921" alt="image" src="https://github.com/user-attachments/assets/a3206408-75aa-4191-9b4d-bd981ebd9a49" />
+<img width="1776" height="928" alt="image" src="https://github.com/user-attachments/assets/c41cc883-619c-45d5-b5f5-cb16d077b43b" />
 
 
 **4. @PostConstruct Lifecycle Hook** — Initialization before bean usage
-<img width="1777" height="921" alt="image" src="https://github.com/user-attachments/assets/da7a9b71-4ce6-4a29-b2e5-8d92901184a5" />
+<img width="1777" height="921" alt="image" src="https://github.com/user-attachments/assets/265182f8-751b-47f4-8be2-f814d505c34d" />
 
 
 **5. @PreDestroy Lifecycle Hook** — Cleanup during application shutdown
 > 🔔 `@PreDestroy` is called when the application stops and wants to destroy the beans
-> <img width="1777" height="921" alt="image" src="https://github.com/user-attachments/assets/c8cb0152-95f4-4e24-b9ad-5ca5f77ba509" />
+<img width="1787" height="983" alt="image" src="https://github.com/user-attachments/assets/9e8db809-f6c3-4179-b3db-196d00ae10bf" />
 
 
 **6. Prototype Scope** — New instance on every request
-<img width="1777" height="921" alt="image" src="https://github.com/user-attachments/assets/f669d637-41da-4891-b3ef-0c19163a3839" />
+<img width="1818" height="988" alt="image" src="https://github.com/user-attachments/assets/88a10162-9c2a-425a-b9fd-b1a3c8ac1424" />
 
 
 **7. Dependency Injection — @Primary** — Resolve multiple bean candidates
-<img width="1777" height="921" alt="image" src="https://github.com/user-attachments/assets/bc295d43-d584-4cb0-a4b0-a4dcc8535f6d" />
+<img width="1793" height="1023" alt="image" src="https://github.com/user-attachments/assets/a495c4af-c70c-4d1a-a4da-b417961a617c" />
 
 
 **8. Dependency Injection — @ConditionalOnProperty** — Conditional bean creation
-<img width="1777" height="921" alt="image" src="https://github.com/user-attachments/assets/ba3ddee2-c796-4b83-b47b-0cf1234c2df9" />
+<img width="1781" height="1018" alt="image" src="https://github.com/user-attachments/assets/4210136a-e760-4813-ad2c-f38489911caa" />
 
 
 **9. Field Injection** — Using `@Autowired` on fields
-<img width="1777" height="921" alt="image" src="https://github.com/user-attachments/assets/a47f54d1-2b45-42f1-a30d-34abeb64fd68" />
+<img width="1783" height="1017" alt="image" src="https://github.com/user-attachments/assets/9918c56a-7eb7-46c9-b4f2-ff610f1ee89c" />
 
 
 **10. Constructor Injection** — Dependency injection via constructor
-<img width="1777" height="921" alt="image" src="https://github.com/user-attachments/assets/cd84fd2f-494b-47fd-8725-32fd165f6ca5" />
+<img width="1833" height="1012" alt="image" src="https://github.com/user-attachments/assets/1814653e-aad9-4c6d-8af7-45c8763ad828" />
 
 
 **11. Final Fields with Constructor** — Immutable dependency pattern
-<img width="1777" height="921" alt="image" src="https://github.com/user-attachments/assets/b66e30fc-30c1-4ae2-a246-6aa6928c2d74" />
+<img width="1821" height="1017" alt="image" src="https://github.com/user-attachments/assets/9c3330da-cf54-4fab-bb42-61b269cf6dd7" />
 
 
 **12. Bean Map Interface** — Retrieve all bean instances as Map
-<img width="1777" height="921" alt="image" src="https://github.com/user-attachments/assets/b5213616-31db-46cc-a0df-eb6310e3bf5e" />
+<img width="1918" height="1028" alt="image" src="https://github.com/user-attachments/assets/e4096646-a36b-4be0-b8d6-5c7c1b369b33" />
 
 
 **13. Maven — Compile Command** — Compile source code
-<img width="1777" height="921" alt="image" src="https://github.com/user-attachments/assets/2ccdd220-e5ec-428a-837e-14ad6bd8eb3f" />
+<img width="1918" height="1026" alt="image" src="https://github.com/user-attachments/assets/ea1be1af-e735-4a0b-80c0-0980fb3ce739" />
 
 
 **14. Maven — Clean Command** — Remove build artifacts
-<img width="1777" height="921" alt="image" src="https://github.com/user-attachments/assets/1232c2b2-0d3e-4a8e-a7aa-9858ee84908c" />
+<img width="1918" height="1010" alt="image" src="https://github.com/user-attachments/assets/3724a1da-1fa2-4a19-90a2-e25e06c065e1" />
 
 
 **15. Maven — Package Command** — Build JAR/WAR
-<img width="1777" height="921" alt="image" src="https://github.com/user-attachments/assets/b7a1c678-b5fa-4e7a-a679-e798d199fd7b" />
+<img width="1822" height="931" alt="image" src="https://github.com/user-attachments/assets/8025c3a4-df5b-4094-a2ce-38ccddddf948" />
 
 
 **16. Maven — Install Command** — Install to local repository
-<img width="1777" height="921" alt="image" src="https://github.com/user-attachments/assets/07c750f9-53ae-4ae7-93f2-a99f0de76088" />
 
 
 ---
