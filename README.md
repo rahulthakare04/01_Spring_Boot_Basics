@@ -105,7 +105,7 @@ CommandLineRunner/ApplicationRunner Execution
 
 
 **2. Configuration-Based Bean Creation** — Using `@Configuration` and `@Bean` annotations
-<img width="938" height="489" alt="image" src="https://github.com/user-attachments/assets/b7999a3e-ec9e-4fa4-9142-101ff45499b1" />
+<img width="1778" height="1018" alt="image" src="https://github.com/user-attachments/assets/6a5c0c05-0a66-4043-8d2c-d537e5649aed" />
 
 
 **3. Component Scanning** — Automatic bean discovery with `@Component`
